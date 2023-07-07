@@ -6,7 +6,7 @@ This course was created for the benefit of NHS staff and analysts to provide an 
 Running Order: 
 1) PowerPoint intro
 2) Python notebook part 1: Intro to Python
-3) 
+   
 
 Laura Mawer
 
